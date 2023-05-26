@@ -23,4 +23,26 @@ m
 
 .cor-primeiro.texto{
     background-color: #B93C3C;
+
+}
+h1{
+    font-family: 'Playfair Display', serif;
+}
+
+.instagram-foto{
+    width: 4%;
+}
+
+.titulo{
+    text-align: center;
+
+    
+}
+
+.imagem-de-telefone{
+    width: 4%;
+}
+
+.botao-insta{
+    display: block;
 }
