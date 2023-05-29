@@ -40,9 +40,26 @@ h1{
 }
 
 .imagem-de-telefone{
-    width: 4%;
+    width: 3%;
 }
 
 .botao-insta{
     display: block;
+    margin: 1%;
+    
+}
+
+.livrinho{
+ 
+ margin: 1%;
+    width: 4%;
+}
+
+.telefone-escrita{
+    padding: 4%;
+}
+
+.historia{
+    padding: 1%;
+    margin: 0%;
 }
